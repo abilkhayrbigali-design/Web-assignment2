@@ -6,6 +6,8 @@ Repository: https://github.com/abilkhayrbigali-design/Web-assignment2
 
 Website address: https://abilkhayrbigali-design.github.io/Web-assignment2/
 
+Report: [Assignment2_Report.pdf](report/Assignment2_Report.pdf)
+
 ## Run locally
 
 Open `index.html` in a browser. All styles, scripts and images are local; no installation, build process, API key or server is required.
